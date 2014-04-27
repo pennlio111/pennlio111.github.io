@@ -1,0 +1,72 @@
+match_type,date,time,location,opp_team,home_away,opp_score,barca_score,barca_result,stadium,attendance,referee
+Summer Tour,2011-07-23,20:30 CEST,"Split, Croatia",Hajduk Split,A,0,0,D,Poljud Stadium,35000,Goran Gabrilo
+Audi Cup Semi-final,2011-07-26,18:15 CEST,"Munich, Germany",Internacional,A,2,2,D,Allianz Arena,69000,Felix Brych
+Audi Cup Final,2011-07-27,20:45 CEST,"Munich, Germany",Bayern Munich,A,0,2,W,Allianz Arena,69000,Wolfgang Stark
+World Football Challenge,2011-07-30,19:00 EDT,"Landover, Maryland, United States",Manchester United,A,2,1,L,FedEx Field,81107,Ricardo Salazar
+World Football Challenge,2011-08-03,20:00 EDT,"Miami Gardens, Florida, United States",Guadalajara,A,4,1,L,Sun Life Stadium,70080,Baldomero Toledo
+World Football Challenge,2011-08-06,15:00 CDT,"Arlington, Texas, United States",América,A,0,2,W,Cowboys Stadium,60807,Ricardo Salazar
+Joan Gamper Trophy,2011-08-22,19:00 CEST,"Barcelona, Spain",Napoli,H,0,5,W,Camp Nou,78002,Álvarez Izquierdo
+First leg,2011-08-14,22:00 CEST,Madrid,Real Madrid,A,2,2,D,Santiago Bernabéu,81177,Teixeira Vitienes
+Second leg,2011-08-17,23:00 CEST,Barcelona,Real Madrid,H,2,3,W,Camp Nou,92965,Fernández Borbalán
+Final,2011-08-26,20:45 CEST,Monaco,Porto,A,0,2,W,Stade Louis II,18048,Björn Kuipers
+Semi-finals,2011-12-14,11:30 CET,"Yokohama, Japan",Al-Sadd,A,0,4,W,International Stadium Yokohama,66298,Joel Aguilar
+Final,2011-12-18,11:30 CET,"Yokohama, Japan",Santos,A,0,4,W,International Stadium Yokohama,68166,Ravshan Irmatov
+2,2011-08-29,21:00,Barcelona,Villarreal,H,0,5,W,Camp Nou,75097,Turienzo Álvarez
+3,2011-09-10,18:00,San Sebastián,Real Sociedad,A,2,2,D,Anoeta,31000,Mateu Lahoz
+4,2011-09-17,20:00,Barcelona,Osasuna,H,0,8,W,Camp Nou,70549,Muñiz Fernández
+5,2011-09-21,22:00,Valencia,Valencia,A,2,2,D,Mestalla,52250,Velasco Carballo
+6,2011-09-24,22:00,Barcelona,Atlético Madrid,H,0,5,W,Camp Nou,83154,Delgado Ferreiro
+7,2011-10-02,20:00,Gijón,Sporting Gijón,A,0,1,W,El Molinón,28500,Clos Gómez
+8,2011-10-15,20:00,Barcelona,Racing Santander,H,0,3,W,Camp Nou,82225,Ayza Gámez
+9,2011-10-22,22:00,Barcelona,Sevilla,H,0,0,D,Camp Nou,82743,Iturralde González
+10,2011-10-25,20:00,Granada,Granada,A,0,1,W,Los Cármenes,22000,Muñiz Fernández
+11,2011-10-29,20:00,Barcelona,Mallorca,H,0,5,W,Camp Nou,80635,Pérez Montero
+12,2011-11-06,20:00,Bilbao,Athletic Bilbao,A,2,2,D,San Mamés,38000,Paradas Romero
+13,2011-11-19,20:00,Barcelona,Zaragoza,H,0,4,W,Camp Nou,66692,Undiano Mallenco
+14,2011-11-26,22:00,Getafe,Getafe,A,1,0,L,Alfonso Pérez,13600,F. Teixeira Vitienes
+17,2011-11-29,21:00,Barcelona,Rayo Vallecano,H,0,4,W,Camp Nou,53775,Pérez Lasa
+15,2011-12-03,20:00,Barcelona,Levante,H,0,5,W,Camp Nou,79361,J. A. Teixeira Vitienes
+16,2011-12-10,22:00,Madrid,Real Madrid,A,1,3,W,Santiago Bernabéu,85400,Fernández Borbalán
+18,2012-01-08,21:30,Cornellà de Llobregat,Espanyol,A,1,1,D,Cornellà-El Prat,35122,Turienzo Álvarez
+19,2012-01-15,21:30,Barcelona,Real Betis,H,2,4,W,Camp Nou,69889,Iglesias Villanueva
+1,2012-01-22,18:00,Málaga,Málaga,A,1,4,W,La Rosaleda,30000,Undiano Mallenco
+21,2012-01-28,22:00,Villarreal,Villarreal,A,0,0,D,El Madrigal,17000,J. A. Teixeira Vitienes
+22,2012-02-04,22:00,Barcelona,Real Sociedad,H,1,2,W,Camp Nou,52646,Clos Gómez
+23,2012-02-11,20:00,Pamplona,Osasuna,A,3,2,L,El Sadar,17283,Paradas Romero
+24,2012-02-19,21:30,Barcelona,Valencia,H,1,5,W,Camp Nou,74240,Turienzo Álvarez
+25,2012-02-26,21:30,Madrid,Atlético Madrid,A,1,2,W,Vicente Calderón,53000,Pérez Lasa
+26,2012-03-03,20:00,Barcelona,Sporting Gijón,H,1,3,W,Camp Nou,72442,Velasco Carballo
+27,2012-03-11,18:00,Santander,Racing Santander,A,0,2,W,El Sardinero,18885,Del Cerro Grande
+28,2012-03-17,20:00,Seville,Sevilla,A,0,2,W,Ramón Sánchez Pizjuán,44500,González González
+29,2012-03-20,21:00,Barcelona,Granada,H,3,5,W,Camp Nou,62401,J. A. Teixeira Vitienes
+30,2012-03-24,18:00,Palma,Mallorca,A,0,2,W,Iberostar,22284,Ayza Gámez
+31,2012-03-31,22:00,Barcelona,Athletic Bilbao,H,0,2,W,Camp Nou,88207,Antonio Mateu Lahoz
+32,2012-04-07,20:00,Zaragoza,Zaragoza,A,1,4,W,La Romareda,34000,Turienzo Álvarez
+33,2012-04-10,21:00,Barcelona,Getafe,H,0,4,W,Camp Nou,76041,González González
+34,2012-04-14,22:00,Valencia,Levante,A,1,2,W,Ciutat de València,23000,J. A. Teixeira Vitienes
+35,2012-04-21,20:00,Barcelona,Real Madrid,H,2,1,L,Camp Nou,99252,Undiano Mallenco
+36,2012-04-29,21:30,Vallecas,Rayo Vallecano,A,0,7,W,Campo Vallecas,12300,Delgado Ferreiro
+20,2012-05-02,20:00,Barcelona,Málaga,H,1,4,W,Camp Nou,67854,Turienzo Álvarez
+37,2012-05-05,21:00,Barcelona,Espanyol,H,0,4,W,Camp Nou,89044,F. Teixeira Vitienes
+38,2012-05-12,22:00,Seville,Real Betis,A,2,2,D,Benito Villamarín,55000,Ayza Gámez
+First leg,2011-11-09,22:00,L'Hospitalet de Llobregat,L'Hospitalet,A,0,1,W,La Feixa Llarga,2500,del Cerro Grande
+Second leg,2011-12-22,22:00,Barcelona,L'Hospitalet,H,0,9,W,Camp Nou,56480,González González
+First leg,2012-01-04,22:00,Barcelona,Osasuna,H,0,4,W,Camp Nou,64124,Fernández Borbalán
+Second leg,2012-01-12,22:00,Pamplona,Osasuna,A,1,2,W,El Sadar,12498,Velasco Carballo
+First leg,2012-01-18,22:00,Madrid,Real Madrid,A,1,2,W,Santiago Bernabéu,83500,Muñiz Fernández
+Second leg,2012-01-25,22:00,Barcelona,Real Madrid,H,2,2,D,Camp Nou,95486,F. Teixeira Vitienes
+First leg,2012-02-01,21:00,Valencia,Valencia,A,1,1,D,Mestalla,51800,González González
+Second leg,2012-02-08,21:00,Barcelona,Valencia,H,0,2,W,Camp Nou,69476,Fernández Borbalán
+Final,2012-05-25,22:00,Madrid,Athletic Bilbao,A,0,3,W,Vicente Calderón,54960,Fernández Borbalán
+1,2011-09-13,20:45 CEST,"Barcelona, Spain",Milan,H,2,2,D,Camp Nou,89861,Martin Atkinson
+2,2011-09-28,20:45 CEST,"Minsk, Belarus",BATE Borisov,A,0,5,W,Dynama Stadium,29555,Manuel Gräfe
+3,2011-10-19,20:45 CEST,"Barcelona, Spain",Viktoria Plzeň,H,0,2,W,Camp Nou,74376,Aleksandar Stavrev
+4,2011-11-01,20:45 CET,"Prague, Czech Republic",Viktoria Plzeň,A,0,4,W,Synot Tip Arena,20145,Robert Schörgenhofer
+5,2011-11-23,20:45 CET,"Milan, Italy",Milan,A,2,3,W,San Siro,78927,Wolfgang Stark
+6,2011-12-06,20:45 CET,"Barcelona, Spain",BATE Borisov,H,0,4,W,Camp Nou,37374,William Collum
+First leg,2012-02-14,20:45 CET,"Leverkusen, Germany",Bayer Leverkusen,A,1,3,W,BayArena,29400,Craig Thomson
+Second leg,2012-03-07,20:45 CET,"Barcelona, Spain",Bayer Leverkusen,H,1,7,W,Camp Nou,75632,Svein Oddvar Moen
+First leg,2012-03-28,20:45 CET,"Milan, Italy",Milan,A,0,0,D,San Siro,76169,Jonas Eriksson
+Second leg,2012-04-03,20:45 CET,"Barcelona, Spain",Milan,H,1,3,W,Camp Nou,94629,Björn Kuipers
+First leg,2012-04-18,20:45 CET,"London, England",Chelsea,A,1,0,L,Stamford Bridge,38039,Felix Brych
+Second leg,2012-04-24,20:45 CET,"Barcelona, Spain",Chelsea,H,2,2,D,Camp Nou,95845,Cüneyt Çakır

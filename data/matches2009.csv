@@ -1,0 +1,61 @@
+match_type,date,time,location,opp_team,home_away,opp_score,barca_score,barca_result,stadium,attendance,referee
+First leg,2009-08-16,22:00 CEST,Bilbao,Athletic Bilbao,A,1,2,W,San Mamés,40000,Antonio Rubinos Pérez
+Second leg,2009-08-23,22:00 CEST,Barcelona,Athletic Bilbao,H,0,3,W,Camp Nou,61803,Carlos Velasco Carballo
+Final,2009-08-28,20:45 CEST,Monaco,Shakhtar Donetsk,A,0,1,W,Stade Louis II,18000,Frank De Bleeckere
+Semi-finals,2009-12-16,17:00 CET,"Abu Dhabi, United Arab Emirates",Atlante,A,1,3,W,Sheikh Zayed,40955,Carlos Eugênio Simon
+Final,2009-12-19,17:00 CET,"Abu Dhabi, United Arab Emirates",Estudiantes,A,1,2,W,Sheikh Zayed,43050,Benito Archundia
+1,2009-08-31,22:00,Barcelona,Sporting Gijón,H,0,3,W,Camp Nou,71993,Rafael Ramírez Domínguez
+2,2009-09-12,18:00,Getafe,Getafe,A,0,2,W,Coliseum Alfonso Pérez,17000,Eduardo Iturralde González
+3,2009-09-19,22:00,Barcelona,Atlético Madrid,H,2,5,W,Camp Nou,72928,Manuel Mejuto González
+4,2009-09-22,22:00,Santander,Racing Santander,A,1,4,W,Campos de Sport de El Sardinero,22251,Antonio Miguel Mateu Lahoz
+5,2009-09-26,20:00,Málaga,Málaga,A,0,2,W,Estadio La Rosaleda,22800,Carlos Delgado Ferreiro
+6,2009-10-03,20:00,Barcelona,Almería,H,0,1,W,Camp Nou,74177,Carlos Velasco Carballo
+7,2009-10-17,22:00,Valencia,Valencia,A,0,0,D,Estadio Mestalla,50000,Alfonso Pérez Burrull
+8,2009-10-25,21:00,Barcelona,Zaragoza,H,1,6,W,Camp Nou,75653,José Paradas Romero
+9,2009-10-31,20:00,Pamplona,Osasuna,A,1,1,D,Estadio El Sadar,19800,Antonio Rubinos Pérez
+10,2009-11-07,20:00,Barcelona,Mallorca,H,2,4,W,Camp Nou,77491,Javier Turienzo Álvarez
+11,2009-11-21,22:00,Bilbao,Athletic Bilbao,A,1,1,D,Estadio San Mamés,40000,Fernando Teixeira Vitienes
+12,2009-11-29,19:00,Barcelona,Real Madrid,H,0,1,W,Camp Nou,97138,Alberto Undiano Mallenco
+13,2009-12-02,22:00,Jerez,Xerez,A,0,2,W,Estadio Municipal de Chapín,17584,Carlos Velasco Carballo
+14,2009-12-05,22:00,A Coruña,Deportivo La Coruña,A,1,3,W,Estadio Riazor,34600,David Fernández Borbalán
+15,2009-12-12,20:00,Barcelona,Espanyol,H,0,1,W,Camp Nou,84599,Eduardo Iturralde González
+16,2010-01-02,20:00,Barcelona,Villarreal,H,1,1,D,Camp Nou,77622,Bernardino González Vázquez
+17,2010-01-10,20:00,Tenerife,Tenerife,A,0,5,W,Estadio Heliodoro Rodríguez López,22510,Miguel Pérez Lasa
+18,2010-01-16,22:00,Barcelona,Sevilla,H,0,4,W,Camp Nou,63274,Carlos Delgado Ferreiro
+19,2010-01-23,20:00,Valladolid,Real Valladolid,A,0,3,W,Estadio José Zorrilla,24213,Rafael Ramírez Domínguez
+20,2010-01-30,20:00,Gijón,Sporting Gijón,A,0,1,W,El Molinón,24500,José Luis Paradas
+21,2010-02-06,20:00,Barcelona,Getafe,H,1,2,W,Camp Nou,74859,Fernando Teixeira Vitienes
+22,2010-02-14,21:00,Madrid,Atlético Madrid,A,2,1,L,Estadio Vicente Calderón,53000,Eduardo Iturralde González
+23,2010-02-20,20:00,Barcelona,Racing Santander,H,0,4,W,Camp Nou,75935,David Fernández Borbalán
+24,2010-02-27,22:00,Barcelona,Málaga,H,1,2,W,Camp Nou,64837,Antonio Rubinos Pérez
+25,2010-03-07,20:00,Almería,Almería,A,2,2,D,Estadio de los Juegos Mediterráneos,10000,Carlos Clos Gómez
+26,2010-03-14,19:00,Barcelona,Valencia,H,0,3,W,Camp Nou,87600,César Muñiz Fernández
+27,2010-03-21,21:00,Zaragoza,Zaragoza,A,2,4,W,La Romareda,30000,Carlos Delgado Ferreiro
+28,2010-03-24,20:00,Barcelona,Osasuna,H,0,2,W,Camp Nou,70645,Carlos Velasco Carballo
+29,2010-03-27,20:00,Palma,Mallorca,A,0,1,W,Iberostar Estadio,23000,David Fernández Borbalán
+30,2010-04-03,20:00,Barcelona,Athletic Bilbao,H,1,4,W,Camp Nou,77630,Antonio Mateu Lahoz
+31,2010-04-10,22:00,Madrid,Real Madrid,A,0,2,W,Estadio Santiago Bernabéu,80000,Manuel Mejuto González
+32,2010-04-14,22:00,Barcelona,Deportivo La Coruña,H,0,3,W,Camp Nou,75897,José Paradas Romero
+33,2010-04-17,20:00,Cornellà de Llobregat,Espanyol,A,0,0,D,Estadi Cornellà-El Prat,39263,Alberto Undiano Mallenco
+34,2010-04-24,18:00,Barcelona,Xerez,H,1,3,W,Camp Nou,82456,César Muñiz Fernández
+35,2010-05-01,22:00,Villarreal,Villarreal,A,1,4,W,Estadio El Madrigal,20000,Fernando Teixeira Vitienes
+36,2010-05-04,20:00,Barcelona,Tenerife,H,1,4,W,Camp Nou,57401,Carlos Delgado Ferreiro
+37,2010-05-08,21:00,Seville,Sevilla,A,2,3,W,Estadio Ramón Sánchez Pizjuán,45000,Alberto Undiano Mallenco
+38,2010-05-16,19:00,Barcelona,Real Valladolid,H,0,4,W,Camp Nou,98083,Miguel Pérez Lasa
+First leg,2009-10-28,20:00 CET,León,Cultural Leonesa,A,0,2,W,Estadio Reino de León,13451,Bernardino González Vázquez
+Second leg,2009-11-10,22:00 CET,Barcelona,Cultural Leonesa,H,0,5,W,Camp Nou,26322,Miguel Ángel Ayza Gámez
+First leg,2010-01-05,22:00 CET,Barcelona,Sevilla,H,2,1,L,Camp Nou,48167,Alfonso Pérez Burrull
+Second leg,2010-01-13,22:00 CET,Seville,Sevilla,A,0,1,W,Estadio Ramón Sánchez Pizjuán,35000,Carlos Clos Gómez
+1,2009-09-16,20:45 CEST,"Milan, Italy",Internazionale,A,0,0,D,San Siro,85700,Wolfgang Stark
+2,2009-09-29,20:45 CEST,"Barcelona, Spain",Dynamo Kyiv,H,0,2,W,Camp Nou,68221,Björn Kuipers
+3,2009-10-20,20:45 CEST,"Barcelona, Spain",Rubin Kazan,H,2,1,L,Camp Nou,55930,Laurent Duhamel
+4,2009-11-04,20:45 CET,"Kazan, Russia",Rubin Kazan,A,0,0,D,Central Stadium,30133,Konrad Plautz
+5,2009-11-24,20:45 CET,"Barcelona, Spain",Internazionale,H,0,2,W,Camp Nou,93524,Massimo Busacca
+6,2009-12-09,20:45 CET,"Kiev, Ukraine",Dynamo Kyiv,A,1,2,W,Lobanovsky Dynamo Stadium,16900,Howard Webb
+First leg,2010-02-23,20:45 CET,"Stuttgart, Germany",Stuttgart,A,1,1,D,Mercedes-Benz Arena,40000,Björn Kuipers
+Second leg,2010-03-17,20:45 CET,"Barcelona, Spain",Stuttgart,H,0,4,W,Camp Nou,88543,Alain Hamer
+First leg,2010-03-31,20:45 CET,"London, England",Arsenal,A,2,2,D,Emirates Stadium,59572,Massimo Busacca
+Second leg,2010-04-06,20:45 CET,"Barcelona, Spain",Arsenal,H,1,4,W,Camp Nou,93330,Wolfgang Stark
+First leg,2010-04-20,20:45 CET,"Milan, Italy",Internazionale,A,3,1,L,San Siro,83000,Olegário Benquerença
+Second leg,2010-04-28,20:45 CET,"Barcelona, Spain",Internazionale,H,0,1,W,Camp Nou,96214,Frank De Bleeckere
+Friendly,2009-12-21,17:15 CET,"Kuwait City, Kuwait",Kazma Sporting Club,A,1,1,D,Al-Sadaqua Walsalam,21500,Abdul Salow

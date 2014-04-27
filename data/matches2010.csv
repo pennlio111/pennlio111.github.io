@@ -1,0 +1,69 @@
+match_type,date,time,location,opp_team,home_away,opp_score,barca_score,barca_result,stadium,attendance,referee
+Summer Tour,2010-07-29,19:00 CEST,"Oslo, Norway",Vålerenga,A,2,4,W,Ullevaal Stadion,21993,Terje Hauge
+Asian Tour,2010-08-04,12:00 CEST,"Seoul, South Korea",K-League All-Stars,A,2,5,W,Seoul World Cup Stadium,32581,Choi Kwang-Bo
+Asian Tour,2010-08-08,13:00 CEST,"Beijing, China",Beijing Guoan,A,0,3,W,Beijing National Stadium,44000,Wang Zhe
+Joan Gamper Trophy,2010-08-25,19:45 CEST,"Barcelona, Spain",Milan,H,1,1,D,Camp Nou,96195,David Fernández Borbalán
+First leg,2010-08-14,21:30 CEST,Seville,Sevilla,A,3,1,L,Estadio Ramón Sánchez Pizjuán,40000,César Muñiz Fernández
+Second leg,2010-08-21,20:30 CEST,Barcelona,Sevilla,H,0,4,W,Camp Nou,67414,Fernando Teixeira Vitienes
+1,2010-08-29,19:00,Santander,Racing Santander,A,0,3,W,Campos de Sport de El Sardinero,19095,Carlos Delgado Ferreiro
+2,2010-09-11,18:00,Barcelona,Hércules,H,2,0,L,Camp Nou,79363,Carlos Velasco Carballo
+3,2010-09-19,19:00,Madrid,Atlético Madrid,A,1,2,W,Estadio Vicente Calderón,53000,David Fernández Borbalán
+4,2010-09-22,20:00,Barcelona,Sporting Gijón,H,0,1,W,Camp Nou,66947,José Luis Paradas Romero
+5,2010-09-25,22:00,Bilbao,Athletic Bilbao,A,1,3,W,Estadio San Mamés,36000,Antonio Mateu Lahoz
+6,2010-10-03,19:00,Barcelona,Mallorca,H,1,1,D,Camp Nou,79085,Alberto Undiano Mallenco
+7,2010-10-16,20:00,Barcelona,Valencia,H,1,2,W,Camp Nou,87975,Fernando Teixeira Vitienes
+8,2010-10-23,18:00,Zaragoza,Zaragoza,A,0,2,W,La Romareda,26000,Miguel Ángel Pérez Lasa
+9,2010-10-30,22:00,Barcelona,Sevilla,H,0,5,W,Camp Nou,81020,Javier Turienzo Álvarez
+10,2010-11-07,19:00,Getafe,Getafe,A,1,3,W,Coliseum Alfonso Pérez,15000,Miguel Ángel Ayza Gámez
+11,2010-11-13,22:00,Barcelona,Villarreal,H,1,3,W,Camp Nou,80766,Carlos Delgado Ferreiro
+12,2010-11-20,20:00,Almería,Almería,A,0,8,W,Estadio de los Juegos Mediterráneos,13097,César Muñiz Fernández
+13,2010-11-29,21:00,Barcelona,Real Madrid,H,0,5,W,Camp Nou,98255,Eduardo Iturralde González
+14,2010-12-04,20:00,Pamplona,Osasuna,A,0,3,W,Estadio El Sadar,18043,Fernando Teixeira Vitienes
+15,2010-12-12,21:00,Barcelona,Real Sociedad,H,0,5,W,Camp Nou,74931,David Fernández Borbalán
+16,2010-12-18,20:00,Cornellà de Llobregat,Espanyol,A,1,5,W,Estadi Cornellà-El Prat,40010,Alberto Undiano Mallenco
+17,2011-01-02,18:00,Barcelona,Levante,H,1,2,W,Camp Nou,71681,Miguel Ángel Pérez Lasa
+18,2011-01-08,22:00,A Coruña,Deportivo La Coruña,A,0,4,W,Estadio Riazor,34500,Carlos Delgado Ferreiro
+19,2011-01-16,21:00,Barcelona,Málaga,H,1,4,W,Camp Nou,71576,José Luis González González
+20,2011-01-22,20:00,Barcelona,Racing Santander,H,0,3,W,Camp Nou,70072,Ignacio Iglesias Villanueva
+21,2011-01-29,20:00,Alicante,Hércules,A,0,3,W,Estadio José Rico Pérez,29500,David Fernández Borbalán
+22,2011-02-05,22:00,Barcelona,Atlético Madrid,H,0,3,W,Camp Nou,84766,Javier Turienzo Álvarez
+23,2011-02-12,20:00,Gijón,Sporting Gijón,A,1,1,D,El Molinón,23481,Miguel Ángel Pérez Lasa
+24,2011-02-20,21:00,Barcelona,Athletic Bilbao,H,1,2,W,Camp Nou,83533,Rafael Ramírez Domínguez
+25,2011-02-26,20:00,Palma,Mallorca,A,0,3,W,Iberostar Estadio,23142,Carlos Velasco Carballo
+26,2011-03-02,22:00,Valencia,Valencia,A,0,1,W,Estadio Mestalla,55000,Eduardo Iturralde González
+27,2011-03-05,20:00,Barcelona,Zaragoza,H,0,1,W,Camp Nou,68000,Fernando Teixeira Vitienes
+28,2011-03-13,20:00,Seville,Sevilla,A,1,1,D,Estadio Ramón Sánchez Pizjuán,44000,Miguel Ángel Pérez Lasa
+29,2011-03-19,20:00,Barcelona,Getafe,H,1,2,W,Camp Nou,81913,César Muñiz Fernández
+30,2011-04-02,20:00,Villarreal,Villarreal,A,0,1,W,Estadio El Madrigal,23000,Rafael Ramírez Domínguez
+31,2011-04-09,20:00,Barcelona,Almería,H,1,3,W,Camp Nou,80452,Miguel Ángel Ayza Gámez
+32,2011-04-16,22:00,Madrid,Real Madrid,A,1,1,D,Estadio Santiago Bernabéu,80354,César Muñiz Fernández
+33,2011-04-23,20:00,Barcelona,Osasuna,H,0,2,W,Camp Nou,73285,Carlos Delgado Ferreiro
+34,2011-04-30,20:00,San Sebastián,Real Sociedad,A,2,1,L,Estadio Anoeta,34850,Fernando Teixeira Vitienes
+35,2011-05-08,19:00,Barcelona,Espanyol,H,0,2,W,Camp Nou,89994,David Fernández Borbalán
+36,2011-05-11,20:00,Valencia,Levante,A,1,1,D,Estadi Ciutat de València,20473,José Luis Paradas Romero
+37,2011-05-15,21:00,Barcelona,Deportivo La Coruña,H,0,0,D,Camp Nou,70044,Carlos Delgado Ferreiro
+38,2011-05-21,18:00,Málaga,Málaga,A,1,3,W,Estadio La Rosaleda,28000,Carlos Clos Gómez
+First leg,2010-10-26,22:00 CEST,Ceuta,Ceuta,A,0,2,W,Estadio Alfonso Murube,6200,Rafael Ramírez Domínguez
+Second leg,2010-11-10,22:00 CET,Barcelona,Ceuta,H,1,5,W,Camp Nou,38971,Ignacio Iglesias Villanueva
+First leg,2010-12-21,20:00 CET,Barcelona,Athletic Bilbao,H,0,0,D,Camp Nou,45207,Antonio Miguel Mateu Lahoz
+Second leg,2011-01-05,22:00 CET,Bilbao,Athletic Bilbao,A,1,1,D,Estadio San Mamés,39750,César Muñiz Fernández
+First leg,2011-01-12,22:00 CET,Barcelona,Real Betis,H,0,5,W,Camp Nou,59498,Carlos Velasco Carballo
+Second leg,2011-01-19,22:00 CET,Seville,Real Betis,A,3,1,L,Estadio Benito Villamarín,35000,Carlos Clos Gómez
+First leg,2011-01-26,22:00 CET,Barcelona,Almería,H,0,5,W,Camp Nou,49875,Antonio Mateu Lahoz
+Second leg,2011-02-02,20:00 CET,Almería,Almería,A,0,3,W,Estadio de los Juegos Mediterráneos,16000,Miguel Ángel Ayza Gámez
+Final,2011-04-20,21:30 CEST,Valencia,Real Madrid,A,1,0,L,Estadio Mestalla,55000,Alberto Undiano Mallenco
+1,2010-09-16,20:45 CEST,"Barcelona, Spain",Panathinaikos,H,1,5,W,Camp Nou,69738,Nicola Rizzoli
+2,2010-09-29,18:30 CEST,"Kazan, Russia",Rubin Kazan,A,1,1,D,Central Stadium,23950,Cüneyt Çakır
+3,2010-10-20,20:45 CEST,"Barcelona, Spain",Copenhagen,H,0,2,W,Camp Nou,75852,Stéphane Lannoy
+4,2010-11-02,20:45 CET,"Copenhagen, Denmark",Copenhagen,A,1,1,D,Parken Stadium,38065,Pavel Cristian Balaj
+5,2010-11-24,20:45 CET,"Athens, Greece",Panathinaikos,A,0,3,W,Olympic Stadium,58466,Gianluca Rocchi
+6,2010-12-07,20:45 CET,"Barcelona, Spain",Rubin Kazan,H,0,2,W,Camp Nou,50436,Jonas Eriksson
+First leg,2011-02-16,20:45 CET,"London, England",Arsenal,A,2,1,L,Emirates Stadium,59927,Nicola Rizzoli
+Second leg,2011-03-08,20:45 CET,"Barcelona, Spain",Arsenal,H,1,3,W,Camp Nou,95486,Massimo Busacca
+First leg,2011-04-06,20:45 CEST,"Barcelona, Spain",Shakhtar Donetsk,H,1,5,W,Camp Nou,86518,Craig Thomson
+Second leg,2011-04-12,20:45 CEST,"Donetsk, Ukraine",Shakhtar Donetsk,A,0,1,W,Donbass Arena,51579,Florian Meyer
+First leg,2011-04-27,20:45 CEST,"Madrid, Spain",Real Madrid,A,0,2,W,Santiago Bernabéu,71567,Wolfgang Stark
+Second leg,2011-05-03,20:45 CEST,"Barcelona, Spain",Real Madrid,H,1,1,D,Camp Nou,95701,Frank De Bleeckere
+Final,2011-05-28,20:45 CEST,"London, England",Manchester United,A,1,3,W,Wembley Stadium,87695,Viktor Kassai
+Final Group Stage,2010-12-01,21:45 CET,Sabadell,Espanyol,A,2,1,L,Nova Creu Alta,2000,Gustavo Rebollo López
+Final Group Stage,2010-12-01,22:45,Sabadell,L'Hospitalet,A,0,2,W,Nova Creu Alta,2000,Gustavo Rebollo López

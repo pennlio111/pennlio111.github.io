@@ -1,0 +1,69 @@
+match_type,date,time,location,opp_team,home_away,opp_score,barca_score,barca_result,stadium,attendance,referee
+1,2008-08-31,19:00,Soria,Numancia,A,1,0,L,Los Pajaritos,9500,David Fernández Borbalán
+2,2008-09-13,20:00,Barcelona,Racing Santander,H,1,1,D,Camp Nou,54678,Rafael Ramírez Domínguez
+3,2008-09-21,21:00,Gijón,Sporting Gijón,A,1,6,W,El Molinón,23481,Carlos Megía Dávila
+4,2008-09-24,20:00,Barcelona,Real Betis,H,2,3,W,Camp Nou,55727,Arturo Daudén Ibáñez
+5,2008-09-27,22:00,Barcelona,Espanyol,A,1,2,W,Estadi Olímpic Lluís Companys,31660,Luís Medina Cantalejo
+6,2008-10-04,22:00,Barcelona,Atlético Madrid,H,1,6,W,Camp Nou,75232,Eduardo Iturralde González
+7,2008-10-19,19:00,Bilbao,Athletic Bilbao,A,0,1,W,Estadio San Mamés,40000,Alberto Undiano Mallenco
+8,2008-10-25,22:00,Barcelona,Almería,H,0,5,W,Camp Nou,63566,Alfonso Pérez Burrull
+9,2008-11-01,20:00,Málaga,Málaga,A,1,4,W,Estadio La Rosaleda,22800,Carlos Velasco Carballo
+10,2008-11-08,22:00,Barcelona,Real Valladolid,H,0,6,W,Camp Nou,58276,Fernando Teixeira Vitienes
+11,2008-11-16,21:00,Huelva,Recreativo Huelva,A,0,2,W,Nuevo Colombino,19860,Miguel Angel Pérez Lasa
+12,2008-11-23,19:00,Barcelona,Getafe,H,1,1,D,Camp Nou,65249,Bernardino González Vázquez
+13,2008-11-29,22:00,Seville,Sevilla,A,0,3,W,Estadio Ramón Sánchez Pizjuán,45500,Alberto Undiano Mallenco
+14,2008-12-06,22:00,Barcelona,Valencia,H,0,4,W,Camp Nou,82889,David Fernández Borbalán
+15,2008-12-13,22:00,Barcelona,Real Madrid,H,0,2,W,Camp Nou,96059,Luís Medina Cantalejo
+16,2008-12-21,19:00,Villarreal,Villarreal,A,1,2,W,Estadio El Madrigal,23000,Carlos Clos Gómez
+17,2009-01-03,20:00,Barcelona,Mallorca,H,1,3,W,Camp Nou,60399,Carlos Velasco Carballo
+18,2009-01-11,21:00,Pamplona,Osasuna,A,2,3,W,Estadio El Sadar,19800,Fernando Teixeira Vitienes
+19,2009-01-17,20:00,Barcelona,Deportivo La Coruña,H,0,5,W,Camp Nou,65145,Julián Rodríguez Santiago
+20,2009-01-24,22:00,Barcelona,Numancia,H,1,4,W,Camp Nou,47330,Miguel Angel Pérez Lasa
+21,2009-02-01,17:00,Santander,Racing Santander,A,1,2,W,Campos de Sport de El Sardinero,22251,David Fernández Borbalán
+22,2009-02-08,19:00,Barcelona,Sporting Gijón,H,1,3,W,Camp Nou,69341,Antonio Rubinos Pérez
+23,2009-02-14,20:00,Seville,Real Betis,A,2,2,D,Manuel Ruiz de Lopera,55500,Eduardo Iturralde González
+24,2009-02-21,20:00,Barcelona,Espanyol,H,2,1,L,Camp Nou,76942,Carlos Delgardo Ferreiro
+25,2009-03-01,19:00,Madrid,Atlético Madrid,A,4,3,L,Estadio Vicente Calderón,55000,Bernardino González Vázquez
+26,2009-03-07,20:00,Barcelona,Athletic Bilbao,H,0,2,W,Camp Nou,75074,Alberto Undiano Mallenco
+27,2009-03-15,21:00,Almería,Almería,A,0,2,W,Estadio de los Juegos Mediterráneos,9333,Manuel Mejuto González
+28,2009-03-22,19:00,Barcelona,Málaga,H,0,6,W,Camp Nou,75178,César Muñiz Fernández
+29,2009-04-04,20:00,Valladolid,Real Valladolid,A,0,1,W,Estadio José Zorrilla,26512,Miguel Angel Pérez Lasa
+30,2009-04-11,20:00,Barcelona,Recreativo,H,0,2,W,Camp Nou,56831,Eduardo Iturralde González
+31,2009-04-18,20:00,Getafe,Getafe,A,0,1,W,Coliseum Alfonso Pérez,17000,Javier Turienzo Alvárez
+32,2009-04-22,22:00,Barcelona,Sevilla,H,0,4,W,Camp Nou,98722,Manuel Mejuto González
+33,2009-04-25,22:00,Valencia,Valencia,A,2,2,D,Estadio Mestalla,45000,César Muñiz Fernández
+34,2009-05-02,22:00,Madrid,Real Madrid,A,2,6,W,Estadio Santiago Bernabéu,80000,Alberto Undiano Mallenco
+35,2009-05-10,19:00,Barcelona,Villarreal,H,3,3,D,Camp Nou,92722,Fernando Teixeira Vitienes
+36,2009-05-17,19:55,Palma,Mallorca,A,2,1,L,Iberostar Estadio,20000,Eduardo Iturralde González
+37,2009-05-23,19:55,Barcelona,Osasuna,H,1,0,L,Camp Nou,77331,Antonio Rubinos Pérez
+38,2009-05-30,22:00,A Coruña,Deportivo La Coruña,A,1,1,D,Estadio Riazor,34600,Fernando Teixeira Vitienes
+First leg,2008-10-28,21:00 CEST,Benidorm,Benidorm,A,0,1,W,Estadio Municipal Guillermo Amor,6000,José Luis Paradas Romero
+Second leg,2008-11-12,21:00 CET,Barcelona,Benidorm,H,0,1,W,Camp Nou,23422,Carlos Clos Gómez
+First leg,2009-01-06,20:00 CET,Madrid,Atlético Madrid,A,1,3,W,Vicente Calderón,54851,Eduardo Iturralde González
+Second leg,2009-01-14,22:00 CET,Barcelona,Atlético Madrid,H,1,2,W,Camp Nou,46482,Manuel Mejuto González
+First leg,2009-01-21,22:00 CET,Cornellà de Llobregat,Espanyol,A,0,0,D,Estadi Olímpic Lluís Companys,21600,César Muñiz Fernández
+Second leg,2009-01-29,21:30 CET,Barcelona,Espanyol,H,2,3,W,Camp Nou,78443,Megía Dávila
+First leg,2009-02-05,21:30 CET,Barcelona,Mallorca,H,0,2,W,Camp Nou,52932,César Muñiz Fernández
+Second leg,2009-03-04,21:00 CET,Palma,Mallorca,A,1,1,D,Iberostar Estadio,23142,Antonio Rubinos Pérez
+Final,2009-05-13,21:30 CEST,Valencia,Athletic Bilbao,A,1,4,W,Estadio Mestalla,50000,Medina Cantalejo
+First leg,2008-08-13,21:45,"Barcelona, Spain",Wisła Kraków,H,0,4,W,Camp Nou,56786,Claudio Circhetta
+Second leg,2008-08-26,20:45,"Kraków, Poland",Wisła Kraków,A,1,0,L,Stadion Miejski in Kraków,20700,Ľuboš Micheľ
+1,2008-09-16,20:45,"Barcelona, Spain",Sporting CP,H,1,3,W,Camp Nou,58354,Laurent Duhamel
+2,2008-10-01,20:45,"Donetsk, Ukraine",Shakhtar Donetsk,A,1,2,W,RSK Olimpiyskyi,25300,Howard Webb
+3,2008-10-22,20:45,"Basel, Switzerland",Basel,A,0,5,W,St. Jakob-Park,37500,Eric Braamhaar
+4,2008-11-04,20:45,"Barcelona, Spain",Basel,H,1,1,D,Camp Nou,49479,Alexandru Tudor
+5,2008-11-26,20:45,"Lisbon, Portugal",Sporting CP,A,2,5,W,Estádio José Alvalade,31765,Matteo Trefoloni
+6,2008-12-09,20:45,"Barcelona, Spain",Shakhtar Donetsk,H,3,2,L,Camp Nou,22763,Mike Riley
+First leg,2009-02-24,20:45,"Lyon, France",Lyon,A,1,1,D,Stade de Gerland,39258,Wolfgang Stark
+Second leg,2009-03-11,20:45,"Barcelona, Spain",Lyon,H,2,5,W,Camp Nou,86368,Tom Henning Øvrebø
+First leg,2009-04-08,20:45,"Barcelona, Spain",Bayern Munich,H,0,4,W,Camp Nou,93219,Howard Webb
+Second leg,2009-04-14,20:45,"Munich, Germany",Bayern Munich,A,1,1,D,Allianz Arena,66000,Roberto Rosetti
+First leg,2009-04-28,20:45,"Barcelona, Spain",Chelsea,H,0,0,D,Camp Nou,95231,Wolfgang Stark
+Second leg,2009-05-06,20:45,"London, England",Chelsea,A,1,1,D,Stamford Bridge,37857,Tom Henning Øvrebø
+Final,2009-05-27,20:45 CEST,"Rome, Italy",Manchester United,A,0,2,W,Stadio Olimpico,62467,Massimo Busacca
+Friendly,2008-07-24,19:45 BST,"Edinburgh, Scotland",Hibernian,A,0,6,W,Murrayfield Stadium,23390,Craig Thomson
+Friendly,2008-07-26,16:00 BST,"Dundee, Scotland",Dundee United,A,1,5,W,Tannadice Park,13000,Dougie McDonald
+Memorial Artemio Franchi,2008-07-30,20:45 CEST,"Florence, Italy",Fiorentina,A,1,3,W,Stadio Artemio Franchi,40428,Italy
+US Tour,2008-08-03,18:00 CDT,"Chicago, USA",Guadalajara,A,2,5,W,Soldier Field,40717,Alex Prus
+US Tour,2008-08-06,19:00 EST,"East Rutherford, New Jersey, USA",New York Red Bulls,A,2,6,W,Giants Stadium,38152,Kevin Stott
+Joan Gamper Trophy,2008-08-16,22:00 CEST,"Barcelona, (Spain)",Boca Juniors,H,1,2,W,Camp Nou,71210,González Vázquez

@@ -1,0 +1,67 @@
+match_type,date,time,location,opp_team,home_away,opp_score,barca_score,barca_result,stadium,attendance,referee
+HSV 125th Anniversary,2012-07-24,18:00 CEST,"Hamburg, Germany",Hamburg,A,1,2,W,Imtech Arena,57274,Peter Gagelmann
+Summer Tour,2012-07-28,23:59 CEST,"Tangier, Morocco",Raja Casablanca,A,0,8,W,Stade de Tanger,23000,Hassan Kamranifar
+Le Trophée de Paris,2012-08-04,19:45 CEST,"Paris, France",Paris Saint-Germain,A,2,2,D,Parc des Princes,48712,Saïd Ennjimi
+Super Matchen,2012-08-08,20:00 CEST,"Gothenburg, Sweden",Manchester United,A,0,0,D,Ullevi,47141,Martin Balko
+Summer of Champions' Cup,2012-08-11,19:45 CEST,"Bucharest, Romania",Dinamo București,A,0,2,W,Arena Națională,45000,Cristi Balaj
+Joan Gamper Trophy,2012-08-20,22:00 CEST,"Barcelona, Spain",Sampdoria,H,1,0,L,Camp Nou,55498,F. Teixeira Vitienes
+First leg,2012-08-23,22:30 CEST,Barcelona,Real Madrid,H,2,3,W,Camp Nou,91728,Clos Gómez
+Second leg,2012-08-29,22:30 CEST,Madrid,Real Madrid,A,2,1,L,Santiago Bernabéu,78000,Antonio Mateu Lahoz
+1,2012-08-19,21:00,Barcelona,Real Sociedad,H,1,5,W,Camp Nou,57721,González González
+2,2012-08-26,19:00,Pamplona,Osasuna,A,1,2,W,El Sadar,15691,Muñiz Fernández
+3,2012-09-02,21:30,Barcelona,Valencia,H,0,1,W,Camp Nou,76352,Pérez Lasa
+4,2012-09-15,20:00,Getafe,Getafe,A,1,4,W,Alfonso Pérez,13000,F. Teixeira Vitienes
+5,2012-09-22,22:00,Barcelona,Granada,H,0,2,W,Camp Nou,65834,Del Cerro Grande
+6,2012-09-29,22:00,Seville,Sevilla,A,2,3,W,Ramón Sánchez Pizjuán,44800,Mateu Lahoz
+7,2012-10-07,19:50,Barcelona,Real Madrid,H,2,2,D,Camp Nou,96589,Delgado Ferreiro
+8,2012-10-20,22:00,A Coruña,Deportivo La Coruña,A,4,5,W,Riazor,32000,Paradas Romero
+9,2012-10-27,22:00,Madrid,Rayo Vallecano,A,0,5,W,Campo de Vallecas,14000,Pérez Lasa
+10,2012-11-03,18:00,Barcelona,Celta Vigo,H,1,3,W,Camp Nou,82978,Fernández Borbalán
+11,2012-11-11,17:50,Palma,Mallorca,A,2,4,W,Iberostar,23142,Iglesias Villanueva
+12,2012-11-17,20:00,Barcelona,Zaragoza,H,1,3,W,Camp Nou,73428,Ayza Gámez
+13,2012-11-25,21:00,Valencia,Levante,A,0,4,W,Ciutat de València,24234,Pérez Montero
+14,2012-12-01,20:00,Barcelona,Athletic Bilbao,H,1,5,W,Camp Nou,68346,Mateu Lahoz
+15,2012-12-09,21:00,Seville,Real Betis,A,1,2,W,Benito Villamarín,46157,Velasco Carballo
+16,2012-12-16,21:00,Barcelona,Atlético Madrid,H,1,4,W,Camp Nou,86637,Pérez Lasa
+17,2012-12-22,18:00,Valladolid,Real Valladolid,A,1,3,W,José Zorrilla,24823,Clos Gómez
+18,2013-01-06,19:00,Barcelona,Espanyol,H,0,4,W,Camp Nou,73760,Gil Manzano
+19,2013-01-13,21:00,Málaga,Málaga,A,1,3,W,La Rosaleda,29323,Delgado Ferreiro
+20,2013-01-19,18:00,San Sebastián,Real Sociedad,A,3,2,L,Anoeta,32076,Undiano Mallenco
+21,2013-01-27,19:00,Barcelona,Osasuna,H,1,5,W,Camp Nou,65594,Teixeira Vitienes
+22,2013-02-03,19:00,Valencia,Valencia,A,1,1,D,Mestalla,45000,González González
+23,2013-02-10,12:00,Barcelona,Getafe,H,1,6,W,Camp Nou,85610,Iglesias Villanueva
+24,2013-02-16,20:00,Granada,Granada,A,1,2,W,Nuevo Los Cármenes,21300,Del Cerro Grande
+25,2013-02-23,22:00,Barcelona,Sevilla,H,1,2,W,Camp Nou,57629,Velasco Carballo
+26,2013-03-02,16:00,Madrid,Real Madrid,A,2,1,L,Santiago Bernabéu,85454,Pérez Lasa
+27,2013-03-09,20:00,Barcelona,Deportivo La Coruña,H,0,2,W,Camp Nou,69748,Pérez Montero
+28,2013-03-17,22:00,Barcelona,Rayo Vallecano,H,1,3,W,Camp Nou,68197,González González
+29,2013-03-30,18:00,Vigo,Celta Vigo,A,2,2,D,Balaídos,29000,Antonio Mateu Lahoz
+30,2013-04-06,22:00,Barcelona,Mallorca,H,0,5,W,Camp Nou,65127,Muñiz Fernández
+31,2013-04-14,19:00,Zaragoza,Zaragoza,A,0,3,W,La Romareda,31000,Fernández Borbalán
+32,2013-04-20,20:00,Barcelona,Levante,H,0,1,W,Camp Nou,70957,Undiano Mallenco
+33,2013-04-27,18:00,Bilbao,Athletic Bilbao,A,2,2,D,San Mamés,40000,Iglesias Villanueva
+34,2013-05-05,21:00,Barcelona,Real Betis,H,2,4,W,Camp Nou,68175,Clos Gómez
+35,2013-05-12,19:00,Madrid,Atlético Madrid,A,1,2,W,Vicente Calderón,54851,Pérez Montero
+36,2013-05-19,21:00,Barcelona,Real Valladolid,H,1,2,W,Camp Nou,50000,Ignacio Iglesias
+37,2013-05-26,20:00,Cornellà de Llobregat,Espanyol,A,0,2,W,Cornellà-El Prat,40500,Fernández Borbalán
+38,2013-06-01,21:00,Barcelona,Málaga,H,1,4,W,Camp Nou,65727,Ayza Gámez
+First leg,2012-10-30,22:00,Vitoria-Gasteiz,Alavés,A,0,3,W,Mendizorroza,19840,J. A. Teixeira Vitienes
+Second leg,2012-11-28,21:30,Barcelona,Alavés,H,1,3,W,Camp Nou,57655,Velasco Carballo
+First Leg,2012-12-12,20:00,Córdoba,Córdoba,A,0,2,W,Nuevo Arcángel,20000,Del Cerro Grande
+Second Leg,2013-01-10,21:30,Barcelona,Córdoba,H,0,5,W,Camp Nou,37607,Hernández Hernández
+First leg,2013-01-16,21:30,Barcelona,Málaga,H,2,2,D,Camp Nou,55151,González González
+Second leg,2013-01-24,22:00,Málaga,Málaga,A,2,4,W,La Rosaleda,27099,Mateu Lahoz
+First leg,2013-01-30,21:00,Madrid,Real Madrid,A,1,1,D,Santiago Bernabéu,78000,Clos Gómez
+Second leg,2013-02-26,21:00,Barcelona,Real Madrid,H,3,1,L,Camp Nou,95002,Undiano Mallenco
+1,2012-09-19,20:45 CEST,"Barcelona, Spain",Spartak Moscow,H,2,3,W,Camp Nou,82241,Milorad Mažić
+2,2012-10-02,20:45 CEST,"Lisbon, Portugal",Benfica,A,0,2,W,Estádio da Luz,63847,Cüneyt Çakır
+3,2012-10-23,20:45 CEST,"Barcelona, Spain",Celtic,H,1,2,W,Camp Nou,77781,Gianluca Rocchi
+4,2012-11-07,20:45 CET,"Glasgow, Scotland",Celtic,A,2,1,L,Celtic Park,58841,[126]
+5,2012-11-20,18:00 CET,"Moscow, Russia",Spartak Moscow,A,0,3,W,Luzhniki Stadium,67325,Ivan Bebek
+6,2012-12-05,20:45 CET,"Barcelona, Spain",Benfica,H,0,0,D,Camp Nou,50659,Svein Oddvar Moen
+First leg,2013-02-20,20:45 CET,"Milan, Italy",Milan,A,2,0,L,San Siro,79532,Craig Thomson
+Second leg,2013-03-12,20:45 CET,"Barcelona, Spain",Milan,H,0,4,W,Camp Nou,94944,Viktor Kassai
+First leg,2013-04-02,20:45 CEST,"Paris, France",Paris Saint-Germain,A,2,2,D,Parc des Princes,45336,Wolfgang Stark
+Second leg,2013-04-10,20:45 CEST,"Barcelona, Spain",Paris Saint-Germain,H,1,1,D,Camp Nou,96022,Björn Kuipers
+First leg,2013-04-23,20:45 CEST,"Munich, Germany",Bayern Munich,A,4,0,L,Allianz Arena,68000,Viktor Kassai
+Second leg,2013-05-01,20:45 CEST,"Barcelona, Spain",Bayern Munich,H,3,0,L,Camp Nou,95877,Damir Skomina
