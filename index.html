@@ -366,30 +366,6 @@ svg.selectAll(".month")
     .attr("d", monthPath);
 
 
-// Match Stat table
-
-
-var bar_wl_width = 160;
-var Bigwin_percent = 0.2, win_percent = 0.1;
-var Bigdrw_percent = 0.2, drw_percent = 0.2;
-var Bigls_percent = 0.1, ls_percent = 1.0 - win_percent - drw_percent - Bigdrw_percent - Bigdrw_percent - Bigls_percent;
-var stat_bar_wl = d3.select("#svg_WDL").append("svg")
-  .attr("id","stat_bar_wl")
-  .attr("width", bar_wl_width);
-var percentSet = [Bigwin_percent,win_percent,Bigdrw_percent,drw_percent,ls_percent,Bigls_percent]
-// var colorSet = []
-var sumPercent = 0;
-for (i=0;i<6;i++)
-{ 
-  stat_bar_wl.append("rect")
-  .attr("height",30)
-  .attr("width",percentSet[i]*bar_wl_width)
-  // .attr("fill","black")
-  .attr("class","block")
-  // .attr("class", "RdYlGn q" + (i) + "-h")
-  .attr("transform", "translate(" + (sumPercent*bar_wl_width) + "," + 0 + ")");
-  sumPercent += percentSet[i];
-}
   // stat_bar_wl.append("rect")
   // .attr("height",20)
   // .attr("width",Bigwin_percent*bar_wl_width)
@@ -476,7 +452,8 @@ d3.csv(csvfile, function (error, csv){
 	match_day
 	    .attr("class", function(d) { 
 	    	var g_diff = goal_diff[d];
-	   		if ((g_diff >2 || g_diff < -2) || (g_diff == 0 && parseInt(barca_score[d]) != 0))
+	    	var b_score = barca_score[d]
+	   		if ((g_diff >2 || g_diff < -2) || (g_diff == 0 && parseInt(b_score) != 0))
 				return "day " + hcolor(barca_result[d]);
 	   		else
 	    		return "day " + lcolor(barca_result[d]);
@@ -484,6 +461,34 @@ d3.csv(csvfile, function (error, csv){
   	show_match_review(csv,match_day); 
   }
 )
+
+
+
+
+// Match Stat table
+
+
+var bar_wl_width = 160;
+var Bigwin_percent = 0.2, win_percent = 0.1;
+var Bigdrw_percent = 0.2, drw_percent = 0.2;
+var Bigls_percent = 0.1, ls_percent = 1.0 - win_percent - drw_percent - Bigdrw_percent - Bigdrw_percent - Bigls_percent;
+var stat_bar_wl = d3.select("#svg_WDL").append("svg")
+  .attr("id","stat_bar_wl")
+  .attr("width", bar_wl_width);
+var percentSet = [Bigwin_percent,win_percent,Bigdrw_percent,drw_percent,ls_percent,Bigls_percent]
+// var colorSet = []
+var sumPercent = 0;
+for (i=0;i<6;i++)
+{ 
+  stat_bar_wl.append("rect")
+  .attr("height",30)
+  .attr("width",percentSet[i]*bar_wl_width)
+  // .attr("fill","black")
+  .attr("class","block")
+  // .attr("class", "RdYlGn q" + (i) + "-h")
+  .attr("transform", "translate(" + (sumPercent*bar_wl_width) + "," + 0 + ")");
+  sumPercent += percentSet[i];
+}
 
 function monthPath(t0) {
   var t1 = new Date(t0.getFullYear(), t0.getMonth() + 1, 0),
@@ -627,25 +632,27 @@ function show_match_review(csv,match_day)
 
 function filter_opp_team_rect (csvfile, team_name)
 {
-  d3.csv(csvfile, function (error, csv)
-  {
-    opp_team = d3.nest()
-      .key(function(d) {return d.date;})        //assign the key: each time only one mapping form key --> element 
-      .rollup(function(d) {return d[0].opp_team; })
-      .map(csv);
-    
-    match_day = rect.filter(function (d) {return opp_team[d] == team_name && d in opp_team})
-    .transition()
-    .duration(1000)
-    .attr("opacity",1);
+	// var oppMatch_day;
+  	d3.csv(csvfile, function (error, csv)
+	  {
+	    opp_team = d3.nest()
+	      .key(function(d) {return d.date;})        //assign the key: each time only one mapping form key --> element 
+	      .rollup(function(d) {return d[0].opp_team; })
+	      .map(csv);
+	    
+	    oppMatch_day = rect.filter(function (d) {return opp_team[d] == team_name && d in opp_team})
+	    .transition()
+	    .duration(1000)
+	    .attr("opacity",1);
 
-    non_match_day = rect.filter(function(d) {return opp_team[d] != team_name && d in opp_team});
+	    non_match_day = rect.filter(function(d) {return opp_team[d] != team_name && d in opp_team});
 
-    non_match_day
-    .transition()
-    .duration(1000)
-    .attr("opacity",0.12);
-  }
+	    non_match_day
+	    .transition()
+	    .duration(1000)
+	    .attr("opacity",0.12);
+	  }
+  // return oppMatch_day;
 )
 }
 
@@ -682,17 +689,23 @@ switch (text)
 		   			return "q" + (d+1) + "-h"; 	
 		   		}	   		
 		   	));
-			match_day
-				.attr("class", function(d) { 
-			    	var g_diff = goal_diff[d];
-			   		if ((g_diff >2 || g_diff < -2) || (g_diff == 0 && parseInt(barca_score[d]) != 0))
-						return "day " + hcolor(barca_result[d]);
-						else
-						return "day " + lcolor(barca_result[d]);
-				 	}
-				 )
-	        }
-	      )
+		var barca_score =  d3.nest()
+			.key(function(d) {return d.date;})        //assign the key: each time only one mapping form key --> element 
+			.rollup(function(d) {return d[0].barca_score; })
+			.map(csv);
+
+		match_day
+			.attr("class", function(d) { 
+		    	var g_diff = goal_diff[d];
+		    	var b_score = barca_score[d];
+		   		if ((g_diff >2 || g_diff < -2) || (g_diff == 0 && parseInt(b_score) != 0))
+					return "day " + hcolor(barca_result[d]);
+					else
+					return "day " + lcolor(barca_result[d]);
+			 	}
+			 )
+	      }
+	    )
 		break;
 	case "Attendence":
 		d3.csv(csvfile, function (error, csv){
@@ -725,7 +738,7 @@ if (text == "All"){
     .attr("opacity",1);
 }
 else 
-	filter_opp_team_rect(csvfile, text);
+	var OppMatch = filter_opp_team_rect(csvfile, text);
 }
 
 
